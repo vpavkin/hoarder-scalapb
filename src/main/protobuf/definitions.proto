@@ -1,0 +1,22 @@
+syntax = "proto3";
+option java_package = "ru.pavkin";
+option optimize_for = SPEED;
+
+message BigMessage {
+    int64 value1 = 1;
+    int64 value2 = 2;
+    int64 value3 = 3;
+    int64 value4 = 4;
+    int64 value5 = 5;
+    int64 value6 = 6;
+    int64 value7 = 7;
+    int64 value8 = 8;
+    int64 value9 = 9;
+    int64 value10 = 10;
+    int64 value11 = 11;
+    int64 value12 = 12;
+    int64 value13 = 13;
+    int64 value14 = 14;
+    int64 value15 = 15;
+    int64 value16 = 16;
+}
